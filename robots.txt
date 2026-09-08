@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tools.prima16.com/sitemap.xml
